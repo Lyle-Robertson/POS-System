@@ -9,3 +9,6 @@ The project was designed and buiit inside the Netbeans text editor and JAVA.
 ** Make it easier to manage stock and inventory quantities
 ** Print out invoices for customers.
 ** store these invoices on the computer.
+
+
+Below is the store the System is running at:
